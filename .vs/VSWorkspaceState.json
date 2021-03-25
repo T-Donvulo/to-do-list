@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\component",
+    "\\src\\component\\App",
+    "\\src\\component\\Layout",
+    "\\src\\component\\Link",
+    "\\src\\views",
+    "\\src\\views\\Add",
+    "\\src\\views\\Edit",
+    "\\src\\views\\Home"
+  ],
+  "SelectedNode": "\\src\\views\\Add\\Add.jsx",
+  "PreviewInSolutionExplorer": false
+}
